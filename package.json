@@ -1,0 +1,28 @@
+{
+  "name": "vacation-wishlist-form",
+  "version": "1.0.0",
+  "description": "simple form to add dream vacations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nscherer30/Vacation-Wishlist-Form.git"
+  },
+  "keywords": [
+    "vacation",
+    "form",
+    "website"
+  ],
+  "author": "Nick Scherer <nscherer30@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nscherer30/Vacation-Wishlist-Form/issues"
+  },
+  "homepage": "https://github.com/nscherer30/Vacation-Wishlist-Form#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0"
+  }
+}
